@@ -1,10 +1,8 @@
-
 # Crossmint Megaverse Coding Challenge
 
 ## Overview
 
-
- **Phase 1**: Created phase1.js file for a basic 2D grid with POLYANETs.
+**Phase 1**: Created phase1.js file for a basic 2D grid with POLYANETs.
 
 **Phase 2**: Created phase2.js file for the megaverse to create a Crossmint logo on the grid, using additional elements like colored SOLOONs and directed COMETHs.
 
@@ -17,32 +15,36 @@
 
 ### Installation
 
- Clone the repository:
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-repo/crossmint-megaverse-challenge.git
+```bash
+git clone https://github.com/Srilakshmi-Allam/Crossmint-Megaverse.git
 
-   ```
+```
+
 Navigate into the project directory:
 
-   ```bash
-   cd crossmint-megaverse-challenge
+```bash
+cd Crossmint-Megaverse
 
-   ```
-   Install dependencies
+```
+
+Install dependencies
 
 ```bash
    npm install
 
-   ```
+```
 
 ### Execute Phase 1
+
 To execute Phase 1, run the following command:
 
     node phase1.js
-        
+
 
 ### Execute Phase 2
+
 To execute Phase 1, run the following command:
-    
+
     node phase2.js
